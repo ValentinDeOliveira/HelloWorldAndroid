@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="click">Click</string>
+    <string name="hello_world">Hello world !</string>
+    <string name="name">Name :</string>
+    <string name="salary">Salary :</string>
+    <string name="age">Age :</string>
+    <string name="profile_image">Profile image :</string>
+</resources>
