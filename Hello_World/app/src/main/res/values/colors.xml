@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="deleteColor">#FF4040</color>
+    <color name="reloadColor">#5AC18E</color>
+    <color name="buttonColor">#5879f1</color>
+
+    <color name="darkShade">#78BDE3</color>
+    <color name="lightShade">#8DC7E7</color>
+</resources>
