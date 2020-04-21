@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:id="@+id/rootLayout">
+    tools:context=".CodeBehind.CameraApplication.CameraApplicationMainPage">
+
 
     <LinearLayout
         style="@style/mainLinearLayoutStyle">
 
         <Button
             style="@style/mainButtonStyle"
-            android:onClick="goToAPIData"
-            android:text="@string/api_data"/>
+            android:onClick="takePhoto"
+            android:text="@string/take_photo" />
 
         <Button
-            android:onClick="goToCameraActions"
-            android:text="@string/camera_actions"
-            style="@style/mainButtonStyle" />
+            style="@style/mainButtonStyle"
+            android:onClick="loadPhotoFromGallery"
+            android:text="@string/load_photo" />
 
     </LinearLayout>
-
 
 </RelativeLayout>

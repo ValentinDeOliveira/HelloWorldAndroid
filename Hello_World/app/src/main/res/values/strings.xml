@@ -16,5 +16,10 @@
 
     <string name="toast_no_internet_msg">Data can\'t be loaded, no internet connection was detected !</string>
     <string name="toast_data_deleted_msg">Data has been deleted !</string>
+    <string name="api_data">API Data</string>
+    <string name="camera_actions">Camera Actions</string>
+    <string name="take_photo">Take photo</string>
+    <string name="load_photo">Load photo from gallery</string>
+    <string name="load_photo_error">No photos were selected !</string>
 
 </resources>
